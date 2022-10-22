@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projet FGO Versus" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Projet FGO Versus" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Projet FGO Versus" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Archer/Arash/arash.cpp" />
+		<Unit filename="Archer/Arash/arash.h" />
+		<Unit filename="Archer/Chiron/chiron.cpp" />
+		<Unit filename="Archer/Chiron/chiron.h" />
+		<Unit filename="Archer/David/david.cpp" />
+		<Unit filename="Archer/David/david.h" />
+		<Unit filename="Archer/Euryale/euryale.cpp" />
+		<Unit filename="Archer/Euryale/euryale.h" />
+		<Unit filename="Archer/Gilgamesh/gilgamesh.cpp" />
+		<Unit filename="Archer/Gilgamesh/gilgamesh.h" />
+		<Unit filename="Archer/Ishtar/ishtar.cpp" />
+		<Unit filename="Archer/Ishtar/ishtar.h" />
+		<Unit filename="Archer/OdaNobunaga/odaNobunaga.cpp" />
+		<Unit filename="Archer/OdaNobunaga/odaNobunaga.h" />
+		<Unit filename="Archer/RobinHood/robinHood.cpp" />
+		<Unit filename="Archer/RobinHood/robinHood.h" />
+		<Unit filename="Archer/ShirouEmiya/emiya.cpp" />
+		<Unit filename="Archer/ShirouEmiya/emiya.h" />
+		<Unit filename="Archer/TawaraTouta/tawaraTouta.cpp" />
+		<Unit filename="Archer/TawaraTouta/tawaraTouta.h" />
+		<Unit filename="Assassin/Carmilla/carmilla.cpp" />
+		<Unit filename="Assassin/Carmilla/carmilla.h" />
+		<Unit filename="Assassin/FirstHassan/firstHassan.cpp" />
+		<Unit filename="Assassin/FirstHassan/firstHassan.h" />
+		<Unit filename="Assassin/HassanOfSerenity/hassanOfSerenity.cpp" />
+		<Unit filename="Assassin/HassanOfSerenity/hassanOfSerenity.h" />
+		<Unit filename="Assassin/HassanOfTheCursedArm/hassanOfTheCursedArm.cpp" />
+		<Unit filename="Assassin/HassanOfTheCursedArm/hassanOfTheCursedArm.h" />
+		<Unit filename="Assassin/HassanOfTheHundredPersonas/hassanOfTheHundredPersonas.cpp" />
+		<Unit filename="Assassin/HassanOfTheHundredPersonas/hassanOfTheHundredPersonas.h" />
+		<Unit filename="Assassin/JackTheRipper/jackTheRipper.cpp" />
+		<Unit filename="Assassin/JackTheRipper/jackTheRipper.h" />
+		<Unit filename="Assassin/KiritsuguEmiya/kiritsugu.cpp" />
+		<Unit filename="Assassin/KiritsuguEmiya/kiritsugu.h" />
+		<Unit filename="Assassin/RyougiShiki/ryougiShiki.cpp" />
+		<Unit filename="Assassin/RyougiShiki/ryougiShiki.h" />
+		<Unit filename="Assassin/SasakiKojirou/sasakiKojirou.cpp" />
+		<Unit filename="Assassin/SasakiKojirou/sasakiKojirou.h" />
+		<Unit filename="Assassin/Semiramis/semiramis.cpp" />
+		<Unit filename="Assassin/Semiramis/semiramis.h" />
+		<Unit filename="Berserker/AtalanteAlter/atalanteAlter.cpp" />
+		<Unit filename="Berserker/AtalanteAlter/atalanteAlter.h" />
+		<Unit filename="Berserker/DariusIII/dariusIII.cpp" />
+		<Unit filename="Berserker/DariusIII/dariusIII.h" />
+		<Unit filename="Berserker/Frankenstein/frankenstein.cpp" />
+		<Unit filename="Berserker/Frankenstein/frankenstein.h" />
+		<Unit filename="Berserker/Heracles/heracles.cpp" />
+		<Unit filename="Berserker/Heracles/heracles.h" />
+		<Unit filename="Berserker/Lancelot/lancelot.cpp" />
+		<Unit filename="Berserker/Lancelot/lancelot.h" />
+		<Unit filename="Berserker/LuBuFengxian/luBuFengxian.cpp" />
+		<Unit filename="Berserker/LuBuFengxian/luBuFengxian.h" />
+		<Unit filename="Berserker/MinamotoNoRaikou/minamotoNoRaikou.cpp" />
+		<Unit filename="Berserker/MinamotoNoRaikou/minamotoNoRaikou.h" />
+		<Unit filename="Berserker/PaulBunyan/paulBunyan.cpp" />
+		<Unit filename="Berserker/PaulBunyan/paulBunyan.h" />
+		<Unit filename="Berserker/Spartacus/spartacus.cpp" />
+		<Unit filename="Berserker/Spartacus/spartacus.h" />
+		<Unit filename="Berserker/VladIII/vladIII.cpp" />
+		<Unit filename="Berserker/VladIII/vladIII.h" />
+		<Unit filename="CE.cpp" />
+		<Unit filename="Caster/GillesDeRais/gillesdeRais.cpp" />
+		<Unit filename="Caster/GillesDeRais/gillesdeRais.h" />
+		<Unit filename="Caster/HansChristianAndersen/andersen.cpp" />
+		<Unit filename="Caster/HansChristianAndersen/andersen.h" />
+		<Unit filename="Caster/Medea/medea.cpp" />
+		<Unit filename="Caster/Medea/medea.h" />
+		<Unit filename="Caster/Merlin/merlin.cpp" />
+		<Unit filename="Caster/Merlin/merlin.h" />
+		<Unit filename="Caster/Nitocris/nitocris.cpp" />
+		<Unit filename="Caster/Nitocris/nitocris.h" />
+		<Unit filename="Caster/ScathachSkadi/skadi.cpp" />
+		<Unit filename="Caster/ScathachSkadi/skadi.h" />
+		<Unit filename="Caster/Sieg/sieg.cpp" />
+		<Unit filename="Caster/Sieg/sieg.h" />
+		<Unit filename="Caster/TamamoNoMae/TamamoNoMae.cpp" />
+		<Unit filename="Caster/TamamoNoMae/TamamoNoMae.h" />
+		<Unit filename="Caster/XuanzangSanzang/sanzang.cpp" />
+		<Unit filename="Caster/XuanzangSanzang/sanzang.h" />
+		<Unit filename="Caster/ZhugeLiang/zhugeLiang.cpp" />
+		<Unit filename="Caster/ZhugeLiang/zhugeLiang.h" />
+		<Unit filename="Lancer/CuChulainn/cuChulainn.cpp" />
+		<Unit filename="Lancer/CuChulainn/cuChulainn.h" />
+		<Unit filename="Lancer/DiarmuidUaDuibhne/diarmuid.cpp" />
+		<Unit filename="Lancer/DiarmuidUaDuibhne/diarmuid.h" />
+		<Unit filename="Lancer/Enkidu/enkidu.cpp" />
+		<Unit filename="Lancer/Enkidu/enkidu.h" />
+		<Unit filename="Lancer/Ereshkigal/ereshkigal.cpp" />
+		<Unit filename="Lancer/Ereshkigal/ereshkigal.h" />
+		<Unit filename="Lancer/JaguarWarrior/jaguarWarrior.cpp" />
+		<Unit filename="Lancer/JaguarWarrior/jaguarWarrior.h" />
+		<Unit filename="Lancer/Karna/karna.cpp" />
+		<Unit filename="Lancer/Karna/karna.h" />
+		<Unit filename="Lancer/Leonidas/leonidas.cpp" />
+		<Unit filename="Lancer/Leonidas/leonidas.h" />
+		<Unit filename="Lancer/LiShuwen/liShuwen.cpp" />
+		<Unit filename="Lancer/LiShuwen/liShuwen.h" />
+		<Unit filename="Lancer/Nezha/nezha.cpp" />
+		<Unit filename="Lancer/Nezha/nezha.h" />
+		<Unit filename="Lancer/Parvati/parvati.cpp" />
+		<Unit filename="Lancer/Parvati/parvati.h" />
+		<Unit filename="NP.cpp" />
+		<Unit filename="Rider/Achilles/achilles.cpp" />
+		<Unit filename="Rider/Achilles/achilles.h" />
+		<Unit filename="Rider/Astolfo/astolfo.cpp" />
+		<Unit filename="Rider/Astolfo/astolfo.h" />
+		<Unit filename="Rider/EdwardTeach/edwardTeach.cpp" />
+		<Unit filename="Rider/EdwardTeach/edwardTeach.h" />
+		<Unit filename="Rider/FrancisDrake/drake.cpp" />
+		<Unit filename="Rider/FrancisDrake/drake.h" />
+		<Unit filename="Rider/Georgios/georgios.cpp" />
+		<Unit filename="Rider/Georgios/georgios.h" />
+		<Unit filename="Rider/Iskandar/iskandar.cpp" />
+		<Unit filename="Rider/Iskandar/iskandar.h" />
+		<Unit filename="Rider/MarieAntoinette/marieAntoinette.cpp" />
+		<Unit filename="Rider/MarieAntoinette/marieAntoinette.h" />
+		<Unit filename="Rider/Medusa/medusa.cpp" />
+		<Unit filename="Rider/Medusa/medusa.h" />
+		<Unit filename="Rider/Ozymandias/ozymandias.cpp" />
+		<Unit filename="Rider/Ozymandias/ozymandias.h" />
+		<Unit filename="Rider/Ushiwakamaru/ushiwakamaru.cpp" />
+		<Unit filename="Rider/Ushiwakamaru/ushiwakamaru.h" />
+		<Unit filename="Saber/Altera/altera.cpp" />
+		<Unit filename="Saber/Altera/altera.h" />
+		<Unit filename="Saber/ArtoriaPendragon/artoria.cpp" />
+		<Unit filename="Saber/ArtoriaPendragon/artoria.h" />
+		<Unit filename="Saber/Bedivere/bedivere.cpp" />
+		<Unit filename="Saber/Bedivere/bedivere.h" />
+		<Unit filename="Saber/GaiusJuliusCaesar/caesar.cpp" />
+		<Unit filename="Saber/GaiusJuliusCaesar/caesar.h" />
+		<Unit filename="Saber/Gawain/gawain.cpp" />
+		<Unit filename="Saber/Gawain/gawain.h" />
+		<Unit filename="Saber/Mordred/mordred.cpp" />
+		<Unit filename="Saber/Mordred/mordred.h" />
+		<Unit filename="Saber/NeroClaudius/neroClaudius.cpp" />
+		<Unit filename="Saber/NeroClaudius/neroClaudius.h" />
+		<Unit filename="Saber/OkitaSouji/okitaSouji.cpp" />
+		<Unit filename="Saber/OkitaSouji/okitaSouji.h" />
+		<Unit filename="Saber/Siegfried/siegfried.cpp" />
+		<Unit filename="Saber/Siegfried/siegfried.h" />
+		<Unit filename="Saber/SuzukaGozen/suzukaGozen.cpp" />
+		<Unit filename="Saber/SuzukaGozen/suzukaGozen.h" />
+		<Unit filename="builder.h" />
+		<Unit filename="carte.cpp" />
+		<Unit filename="classe.cpp" />
+		<Unit filename="combat.cpp" />
+		<Unit filename="compteureffet.cpp" />
+		<Unit filename="head.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menu.cpp" />
+		<Unit filename="menu.h" />
+		<Unit filename="servant.cpp" />
+		<Unit filename="skills.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

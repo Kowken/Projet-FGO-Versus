@@ -1,0 +1,6 @@
+#ifndef GAWAIN_H_INCLUDED
+#define GAWAIN_H_INCLUDED
+
+
+
+#endif // GAWAIN_H_INCLUDED

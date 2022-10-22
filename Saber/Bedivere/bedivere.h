@@ -1,0 +1,6 @@
+#ifndef BEDIVERE_H_INCLUDED
+#define BEDIVERE_H_INCLUDED
+
+
+
+#endif // BEDIVERE_H_INCLUDED

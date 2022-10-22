@@ -1,0 +1,6 @@
+#ifndef EURYALE_H_INCLUDED
+#define EURYALE_H_INCLUDED
+
+
+
+#endif // EURYALE_H_INCLUDED

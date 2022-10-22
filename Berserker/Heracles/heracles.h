@@ -1,0 +1,6 @@
+#ifndef HERACLES_H_INCLUDED
+#define HERACLES_H_INCLUDED
+
+
+
+#endif // HERACLES_H_INCLUDED

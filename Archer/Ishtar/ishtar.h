@@ -1,0 +1,6 @@
+#ifndef ISHTAR_H_INCLUDED
+#define ISHTAR_H_INCLUDED
+
+
+
+#endif // ISHTAR_H_INCLUDED

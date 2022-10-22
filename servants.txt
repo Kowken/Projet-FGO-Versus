@@ -1,0 +1,15 @@
+ ------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|         Saber 	  |       Archer       | 	 Lancer          | 	  Rider         | 	   Caster             | 	       Assassin           | 	   Berserker       |
+ ------------------------- -------------------- ------------------------- ---------------------- ----------------------------- ----------------------------------- ------------------------
+| Artoria Pendragon (5)   | Gilgamesh (5)      | Karna (5) 		 | Achilles (5)         | Xuanzang Sanzang (5)        | Semiramis (5)                     | Vlad III (5)           | 
+| Altera (5) 		  | Ishtar (5)         | Ereshkigal (5) 	 | Iskandar (5)         | Zhuge Liang (5)             | First Hassan (5)                  | Minamoto-No-Raikou (5) |
+| Mordred (5) 		  | Emiya (4)          | Enkidu (5) 		 | Drake (5)            | Tamamo-No-Mae (5)           | Jack the Ripper (5)               | Atalante Alter (4)     |
+| Okita Souji (5)	  | Chiron (4)         | Li Shuwen (4)		 | Ozymandias (5)       | Merlin (5)                  | Kiritsugu (4)                     | Lancelot (4)           |
+| Gawain (4)		  | Oda Nobunaga (4)   | Parvati (4)		 | Astolfo (4)          | Scathach-Skadi (5)          | Ryougi Shiki (4)                  | Heracles (4)           |
+| Nero Claudius (4)	  | Euryale (3)        | Nezha (4)		 | Marie Antoinette (4) | Sieg (4)                    | Carmilla (4)                      | Frankenstein (4)       |
+| Suzuka Gozen (4)	  | David (3)          | Jaguar Warrior (3)	 | Medusa (3)           | Nitocris (4)                | Hassan of the Hundred Personas(3) | Darius III (3)         |
+| Siegfried (4)		  | Tawara Touta (3)   | Cu Chulainn (3)	 | Ushiwakamaru (3)     | Medea (3)                   | Hassan Of Serenity (3)            | Lu Bu Fengxian (3)     | 
+| Bedivere (3)		  | Robin des bois (3) | Diarmuid Ua Duibhne (3) | Georgios (2)         | Gilles de Rais (3)          | Hassan of the Cursed Arm (2)      | Spartacus (1)          |
+| Gaius Julius Caesar (3) | Arash (1)          | Leonidas (2)		 | Edward Teach (2)     | Hans Christian Andersen (2) | Sasaki Kojirou (1)                | Paul Bunyan (1)        |
+ ------------------------- -------------------- ------------------------- ---------------------- ----------------------------- ----------------------------------- ------------------------
+

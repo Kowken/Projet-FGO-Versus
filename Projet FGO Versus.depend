@@ -1,0 +1,1246 @@
+# depslib dependency file v1.0
+1606311593 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\arash\arash.cpp
+	"arash.h"
+
+1606311563 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\arash\arash.h
+
+1606311639 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\chiron\chiron.cpp
+	"chiron.h"
+
+1606311614 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\chiron\chiron.h
+
+1606311686 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\david\david.cpp
+	"david.h"
+
+1606311662 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\david\david.h
+
+1606311741 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\euryale\euryale.cpp
+	"euryale.h"
+
+1606311715 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\euryale\euryale.h
+
+1607257757 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\gilgamesh\gilgamesh.cpp
+	"Gilgamesh.h"
+
+1607256019 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\gilgamesh\gilgamesh.h
+	"..\..\head.h"
+
+1607207762 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\head.h
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<time.h>
+	<queue>
+	<algorithm>
+
+1606311795 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\ishtar\ishtar.cpp
+	"ishtar.h"
+
+1606311769 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\ishtar\ishtar.h
+
+1606311860 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\odanobunaga\odanobunaga.cpp
+	"odaNobunaga.h"
+
+1606311834 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\odanobunaga\odanobunaga.h
+
+1606311909 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\robinhood\robinhood.cpp
+	"robinHood.h"
+
+1606311884 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\robinhood\robinhood.h
+
+1606311961 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\shirouemiya\emiya.cpp
+	"emiya.h"
+
+1606311936 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\shirouemiya\emiya.h
+
+1606312023 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\tawaratouta\tawaratouta.cpp
+	"tawaraTouta.h"
+
+1606312000 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\archer\tawaratouta\tawaratouta.h
+
+1606312250 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\carmilla\carmilla.cpp
+	"carmilla.h"
+
+1606312229 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\carmilla\carmilla.h
+
+1606312297 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\firsthassan\firsthassan.cpp
+	"firstHassan.h"
+
+1606312275 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\firsthassan\firsthassan.h
+
+1606312388 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\hassanofserenity\hassanofserenity.cpp
+	"hassanOfSerenity.h"
+
+1606312362 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\hassanofserenity\hassanofserenity.h
+
+1606312490 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\hassanofthecursedarm\hassanofthecursedarm.cpp
+	"hassanOfTheCursedArm.h"
+
+1606312467 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\hassanofthecursedarm\hassanofthecursedarm.h
+
+1606312550 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\hassanofthehundredpersonas\hassanofthehundredpersonas.cpp
+	"hassanOfTheHundredPersonas.h"
+
+1606312525 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\hassanofthehundredpersonas\hassanofthehundredpersonas.h
+
+1606312608 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\jacktheripper\jacktheripper.cpp
+	"jackTheRipper.h"
+
+1606312579 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\jacktheripper\jacktheripper.h
+
+1606312663 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\kiritsuguemiya\kiritsugu.cpp
+	"kiritsugu.h"
+
+1606312640 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\kiritsuguemiya\kiritsugu.h
+
+1606312762 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\ryougishiki\ryougishiki.cpp
+	"ryougiShiki.h"
+
+1606312738 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\ryougishiki\ryougishiki.h
+
+1606312818 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\sasakikojirou\sasakikojirou.cpp
+	"sasakiKojirou.h"
+
+1606312794 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\sasakikojirou\sasakikojirou.h
+
+1606312872 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\semiramis\semiramis.cpp
+	"semiramis.h"
+
+1606312845 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\assassin\semiramis\semiramis.h
+
+1606312960 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\atalantealter\atalantealter.cpp
+	"atalanteAlter.h"
+
+1606312938 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\atalantealter\atalantealter.h
+
+1606313005 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\dariusiii\dariusiii.cpp
+	"dariusIII.h"
+
+1606312983 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\dariusiii\dariusiii.h
+
+1606313058 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\frankenstein\frankenstein.cpp
+	"frankenstein.h"
+
+1606313035 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\frankenstein\frankenstein.h
+
+1606313098 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\heracles\heracles.cpp
+	"heracles.h"
+
+1606313077 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\heracles\heracles.h
+
+1606313140 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\lancelot\lancelot.cpp
+	"lancelot.h"
+
+1606313118 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\lancelot\lancelot.h
+
+1606313197 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\lubufengxian\lubufengxian.cpp
+	"luBuFengxian.h"
+
+1606313168 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\lubufengxian\lubufengxian.h
+
+1606313253 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\minamotonoraikou\minamotonoraikou.cpp
+	"minamotoNoRaikou.h"
+
+1606313232 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\minamotonoraikou\minamotonoraikou.h
+
+1606313301 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\paulbunyan\paulbunyan.cpp
+	"paulBunyan.h"
+
+1606313278 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\paulbunyan\paulbunyan.h
+
+1606313350 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\spartacus\spartacus.cpp
+	"spartacus.h"
+
+1606313328 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\spartacus\spartacus.h
+
+1606313392 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\vladiii\vladiii.cpp
+	"vladIII.h"
+
+1606313370 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\berserker\vladiii\vladiii.h
+
+1607205875 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\carte.cpp
+	"head.h"
+
+1606313871 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\gillesderais\gillesderais.cpp
+	"gillesdeRais.h"
+
+1606313850 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\gillesderais\gillesderais.h
+
+1606313925 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\hanschristianandersen\andersen.cpp
+	"andersen.h"
+
+1606313905 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\hanschristianandersen\andersen.h
+
+1606313975 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\medea\medea.cpp
+	"medea.h"
+
+1606313947 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\medea\medea.h
+
+1606314087 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\merlin\merlin.cpp
+	"merlin.h"
+
+1606314065 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\merlin\merlin.h
+
+1606314148 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\nitocris\nitocris.cpp
+	"nitocris.h"
+
+1606314126 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\nitocris\nitocris.h
+
+1606314215 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\scathachskadi\skadi.cpp
+	"skadi.h"
+
+1606314190 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\scathachskadi\skadi.h
+
+1606314272 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\sieg\sieg.cpp
+	"sieg.h"
+
+1606314242 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\sieg\sieg.h
+
+1606314342 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\tamamonomae\tamamonomae.cpp
+	"TamamoNoMae.h"
+
+1606314304 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\tamamonomae\tamamonomae.h
+
+1606314401 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\xuanzangsanzang\sanzang.cpp
+	"sanzang.h"
+
+1606314378 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\xuanzangsanzang\sanzang.h
+
+1606314459 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\zhugeliang\zhugeliang.cpp
+	"zhugeLiang.h"
+
+1606314433 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\caster\zhugeliang\zhugeliang.h
+
+1607205932 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\ce.cpp
+	"head.h"
+
+1607205849 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\classe.cpp
+	"head.h"
+
+1607421303 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\combat.cpp
+	"head.h"
+	"menu.h"
+
+1607255405 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\menu.h
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	"builder.h"
+	"head.h"
+
+1607207178 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\builder.h
+	"Archer/Gilgamesh/gilgamesh.h"
+	"Saber/ArtoriaPendragon/Artoria.h"
+	"Rider/Medusa/medusa.h"
+	"Lancer/CuChulainn/cuChulainn.h"
+
+1607207599 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\artoriapendragon\artoria.h
+	"..\..\head.h"
+
+1607207028 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\medusa\medusa.h
+	"..\..\head.h"
+
+1607205807 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\compteureffet.cpp
+	"head.h"
+
+1607206924 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\cuchulainn\cuchulainn.cpp
+	"cuChulainn.h"
+
+1607206943 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\cuchulainn\cuchulainn.h
+	"..\..\head.h"
+
+1606314646 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\diarmuiduaduibhne\diarmuid.cpp
+	"diarmuid.h"
+
+1606314620 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\diarmuiduaduibhne\diarmuid.h
+
+1606314695 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\enkidu\enkidu.cpp
+	"enkidu.h"
+
+1606314667 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\enkidu\enkidu.h
+
+1606314767 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\ereshkigal\ereshkigal.cpp
+	"ereshkigal.h"
+
+1606314737 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\ereshkigal\ereshkigal.h
+
+1606314839 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\jaguarwarrior\jaguarwarrior.cpp
+	"jaguarWarrior.h"
+
+1606314816 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\jaguarwarrior\jaguarwarrior.h
+
+1606314888 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\karna\karna.cpp
+	"karna.h"
+
+1606314865 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\karna\karna.h
+
+1606314956 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\leonidas\leonidas.cpp
+	"leonidas.h"
+
+1606314931 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\leonidas\leonidas.h
+
+1606315009 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\lishuwen\lishuwen.cpp
+	"liShuwen.h"
+
+1606314979 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\lishuwen\lishuwen.h
+
+1606315059 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\nezha\nezha.cpp
+	"nezha.h"
+
+1606315029 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\nezha\nezha.h
+
+1606315112 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\parvati\parvati.cpp
+	"parvati.h"
+
+1606315090 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\lancer\parvati\parvati.h
+
+1607421227 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<vector>
+	"head.h"
+	"menu.h"
+
+1607256343 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\menu.cpp
+	"menu.h"
+
+1607205758 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\np.cpp
+	"head.h"
+
+1606315926 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\achilles\achilles.cpp
+	"achilles.h"
+
+1606315904 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\achilles\achilles.h
+
+1606315973 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\astolfo\astolfo.cpp
+	"astolfo.h"
+
+1606315948 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\astolfo\astolfo.h
+
+1606316028 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\edwardteach\edwardteach.cpp
+	"edwardTeach.h"
+
+1606316006 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\edwardteach\edwardteach.h
+
+1606316070 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\francisdrake\drake.cpp
+	"drake.h"
+
+1606316050 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\francisdrake\drake.h
+
+1606316121 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\georgios\georgios.cpp
+	"georgios.h"
+
+1606316100 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\georgios\georgios.h
+
+1606316168 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\iskandar\iskandar.cpp
+	"iskandar.h"
+
+1606316147 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\iskandar\iskandar.h
+
+1606316216 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\marieantoinette\marieantoinette.cpp
+	"marieAntoinette.h"
+
+1606316194 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\marieantoinette\marieantoinette.h
+
+1607257831 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\medusa\medusa.cpp
+	"medusa.h"
+
+1606316309 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\ozymandias\ozymandias.cpp
+	"ozymandias.h"
+
+1606316285 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\ozymandias\ozymandias.h
+
+1606316361 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\ushiwakamaru\ushiwakamaru.cpp
+	"ushiwakamaru.h"
+
+1606316335 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\rider\ushiwakamaru\ushiwakamaru.h
+
+1606316496 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\altera\altera.cpp
+	"altera.h"
+
+1606316477 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\altera\altera.h
+
+1607257654 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\artoriapendragon\artoria.cpp
+	"artoria.h"
+
+1606316598 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\bedivere\bedivere.cpp
+	"bedivere.h"
+
+1606316567 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\bedivere\bedivere.h
+
+1606316643 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\gaiusjuliuscaesar\caesar.cpp
+	"caesar.h"
+
+1606316622 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\gaiusjuliuscaesar\caesar.h
+
+1606316683 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\gawain\gawain.cpp
+	"gawain.h"
+
+1606316661 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\gawain\gawain.h
+
+1606316724 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\mordred\mordred.cpp
+	"mordred.h"
+
+1606316705 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\mordred\mordred.h
+
+1606316769 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\neroclaudius\neroclaudius.cpp
+	"neroClaudius.h"
+
+1606316749 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\neroclaudius\neroclaudius.h
+
+1606316813 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\okitasouji\okitasouji.cpp
+	"okitaSouji.h"
+
+1606316792 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\okitasouji\okitasouji.h
+
+1606316858 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\siegfried\siegfried.cpp
+	"siegfried.h"
+
+1606316840 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\siegfried\siegfried.h
+
+1606316911 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\suzukagozen\suzukagozen.cpp
+	"suzukaGozen.h"
+
+1606316891 c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\saber\suzukagozen\suzukagozen.h
+
+1607256239 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\servant.cpp
+	"head.h"
+	"menu.h"
+
+1607205730 source:c:\users\louis\onedrive\bureau\ece\codeblocks\c++\projet fgo versus\skills.cpp
+	"head.h"
+
+1606315193 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\arash\arash.cpp
+	"arash.h"
+
+1606315163 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\arash\arash.h
+
+1606315239 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\chiron\chiron.cpp
+	"chiron.h"
+
+1606315214 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\chiron\chiron.h
+
+1606315286 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\david\david.cpp
+	"david.h"
+
+1606315262 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\david\david.h
+
+1606315341 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\euryale\euryale.cpp
+	"euryale.h"
+
+1606315315 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\euryale\euryale.h
+
+1607261357 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\gilgamesh\gilgamesh.cpp
+	"Gilgamesh.h"
+
+1607259619 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\gilgamesh\gilgamesh.h
+	"..\..\head.h"
+
+1607211362 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\head.h
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<time.h>
+	<queue>
+	<algorithm>
+
+1606315395 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\ishtar\ishtar.cpp
+	"ishtar.h"
+
+1606315369 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\ishtar\ishtar.h
+
+1606315460 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\odanobunaga\odanobunaga.cpp
+	"odaNobunaga.h"
+
+1606315434 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\odanobunaga\odanobunaga.h
+
+1606315509 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\robinhood\robinhood.cpp
+	"robinHood.h"
+
+1606315484 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\robinhood\robinhood.h
+
+1606315561 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\shirouemiya\emiya.cpp
+	"emiya.h"
+
+1606315536 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\shirouemiya\emiya.h
+
+1606315623 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\tawaratouta\tawaratouta.cpp
+	"tawaraTouta.h"
+
+1606315600 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\tawaratouta\tawaratouta.h
+
+1606315850 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\carmilla\carmilla.cpp
+	"carmilla.h"
+
+1606315829 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\carmilla\carmilla.h
+
+1606315897 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\firsthassan\firsthassan.cpp
+	"firstHassan.h"
+
+1606315875 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\firsthassan\firsthassan.h
+
+1606315988 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\hassanofserenity\hassanofserenity.cpp
+	"hassanOfSerenity.h"
+
+1606315962 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\hassanofserenity\hassanofserenity.h
+
+1606316090 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\hassanofthecursedarm\hassanofthecursedarm.cpp
+	"hassanOfTheCursedArm.h"
+
+1606316067 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\hassanofthecursedarm\hassanofthecursedarm.h
+
+1606316150 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\hassanofthehundredpersonas\hassanofthehundredpersonas.cpp
+	"hassanOfTheHundredPersonas.h"
+
+1606316125 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\hassanofthehundredpersonas\hassanofthehundredpersonas.h
+
+1606316208 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\jacktheripper\jacktheripper.cpp
+	"jackTheRipper.h"
+
+1606316179 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\jacktheripper\jacktheripper.h
+
+1606316263 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\kiritsuguemiya\kiritsugu.cpp
+	"kiritsugu.h"
+
+1606316240 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\kiritsuguemiya\kiritsugu.h
+
+1606316362 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\ryougishiki\ryougishiki.cpp
+	"ryougiShiki.h"
+
+1606316338 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\ryougishiki\ryougishiki.h
+
+1606316418 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\sasakikojirou\sasakikojirou.cpp
+	"sasakiKojirou.h"
+
+1606316394 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\sasakikojirou\sasakikojirou.h
+
+1606316472 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\semiramis\semiramis.cpp
+	"semiramis.h"
+
+1606316445 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\semiramis\semiramis.h
+
+1606316560 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\atalantealter\atalantealter.cpp
+	"atalanteAlter.h"
+
+1606316538 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\atalantealter\atalantealter.h
+
+1606316605 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\dariusiii\dariusiii.cpp
+	"dariusIII.h"
+
+1606316583 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\dariusiii\dariusiii.h
+
+1606316658 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\frankenstein\frankenstein.cpp
+	"frankenstein.h"
+
+1606316635 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\frankenstein\frankenstein.h
+
+1606316698 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\heracles\heracles.cpp
+	"heracles.h"
+
+1606316677 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\heracles\heracles.h
+
+1606316740 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\lancelot\lancelot.cpp
+	"lancelot.h"
+
+1606316718 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\lancelot\lancelot.h
+
+1606316797 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\lubufengxian\lubufengxian.cpp
+	"luBuFengxian.h"
+
+1606316768 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\lubufengxian\lubufengxian.h
+
+1606316853 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\minamotonoraikou\minamotonoraikou.cpp
+	"minamotoNoRaikou.h"
+
+1606316832 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\minamotonoraikou\minamotonoraikou.h
+
+1606316901 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\paulbunyan\paulbunyan.cpp
+	"paulBunyan.h"
+
+1606316878 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\paulbunyan\paulbunyan.h
+
+1606316950 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\spartacus\spartacus.cpp
+	"spartacus.h"
+
+1606316928 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\spartacus\spartacus.h
+
+1606316992 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\vladiii\vladiii.cpp
+	"vladIII.h"
+
+1606316970 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\vladiii\vladiii.h
+
+1607209475 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\carte.cpp
+	"head.h"
+
+1606317471 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\gillesderais\gillesderais.cpp
+	"gillesdeRais.h"
+
+1606317450 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\gillesderais\gillesderais.h
+
+1606317525 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\hanschristianandersen\andersen.cpp
+	"andersen.h"
+
+1606317505 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\hanschristianandersen\andersen.h
+
+1606317575 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\medea\medea.cpp
+	"medea.h"
+
+1606317547 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\medea\medea.h
+
+1606317687 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\merlin\merlin.cpp
+	"merlin.h"
+
+1606317665 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\merlin\merlin.h
+
+1606317748 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\nitocris\nitocris.cpp
+	"nitocris.h"
+
+1606317726 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\nitocris\nitocris.h
+
+1606317815 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\scathachskadi\skadi.cpp
+	"skadi.h"
+
+1606317790 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\scathachskadi\skadi.h
+
+1606317872 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\sieg\sieg.cpp
+	"sieg.h"
+
+1606317842 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\sieg\sieg.h
+
+1606317942 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\tamamonomae\tamamonomae.cpp
+	"TamamoNoMae.h"
+
+1606317904 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\tamamonomae\tamamonomae.h
+
+1606318001 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\xuanzangsanzang\sanzang.cpp
+	"sanzang.h"
+
+1606317978 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\xuanzangsanzang\sanzang.h
+
+1606318059 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\zhugeliang\zhugeliang.cpp
+	"zhugeLiang.h"
+
+1606318033 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\zhugeliang\zhugeliang.h
+
+1607209532 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\ce.cpp
+	"head.h"
+
+1607209449 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\classe.cpp
+	"head.h"
+
+1607424903 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\combat.cpp
+	"head.h"
+	"menu.h"
+
+1607259005 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\menu.h
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	"builder.h"
+	"head.h"
+
+1607210778 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\builder.h
+	"Archer/Gilgamesh/gilgamesh.h"
+	"Saber/ArtoriaPendragon/Artoria.h"
+	"Rider/Medusa/medusa.h"
+	"Lancer/CuChulainn/cuChulainn.h"
+
+1607211199 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\artoriapendragon\artoria.h
+	"..\..\head.h"
+
+1607210628 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\medusa\medusa.h
+	"..\..\head.h"
+
+1607210543 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\cuchulainn\cuchulainn.h
+	"..\..\head.h"
+
+1607209407 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\compteureffet.cpp
+	"head.h"
+
+1607210524 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\cuchulainn\cuchulainn.cpp
+	"cuChulainn.h"
+
+1606318246 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\diarmuiduaduibhne\diarmuid.cpp
+	"diarmuid.h"
+
+1606318220 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\diarmuiduaduibhne\diarmuid.h
+
+1606318295 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\enkidu\enkidu.cpp
+	"enkidu.h"
+
+1606318267 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\enkidu\enkidu.h
+
+1606318367 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\ereshkigal\ereshkigal.cpp
+	"ereshkigal.h"
+
+1606318337 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\ereshkigal\ereshkigal.h
+
+1606318439 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\jaguarwarrior\jaguarwarrior.cpp
+	"jaguarWarrior.h"
+
+1606318416 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\jaguarwarrior\jaguarwarrior.h
+
+1606318488 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\karna\karna.cpp
+	"karna.h"
+
+1606318465 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\karna\karna.h
+
+1606318556 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\leonidas\leonidas.cpp
+	"leonidas.h"
+
+1606318531 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\leonidas\leonidas.h
+
+1606318609 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\lishuwen\lishuwen.cpp
+	"liShuwen.h"
+
+1606318579 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\lishuwen\lishuwen.h
+
+1606318659 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\nezha\nezha.cpp
+	"nezha.h"
+
+1606318629 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\nezha\nezha.h
+
+1606318712 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\parvati\parvati.cpp
+	"parvati.h"
+
+1606318690 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\parvati\parvati.h
+
+1607424827 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<vector>
+	"head.h"
+	"menu.h"
+
+1607259943 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\menu.cpp
+	"menu.h"
+
+1607209358 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\np.cpp
+	"head.h"
+
+1606319526 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\achilles\achilles.cpp
+	"achilles.h"
+
+1606319504 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\achilles\achilles.h
+
+1606319573 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\astolfo\astolfo.cpp
+	"astolfo.h"
+
+1606319548 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\astolfo\astolfo.h
+
+1606319628 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\edwardteach\edwardteach.cpp
+	"edwardTeach.h"
+
+1606319606 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\edwardteach\edwardteach.h
+
+1606319670 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\francisdrake\drake.cpp
+	"drake.h"
+
+1606319650 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\francisdrake\drake.h
+
+1606319721 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\georgios\georgios.cpp
+	"georgios.h"
+
+1606319700 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\georgios\georgios.h
+
+1606319768 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\iskandar\iskandar.cpp
+	"iskandar.h"
+
+1606319747 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\iskandar\iskandar.h
+
+1606319816 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\marieantoinette\marieantoinette.cpp
+	"marieAntoinette.h"
+
+1606319794 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\marieantoinette\marieantoinette.h
+
+1607261431 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\medusa\medusa.cpp
+	"medusa.h"
+
+1606319909 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\ozymandias\ozymandias.cpp
+	"ozymandias.h"
+
+1606319885 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\ozymandias\ozymandias.h
+
+1606319961 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\ushiwakamaru\ushiwakamaru.cpp
+	"ushiwakamaru.h"
+
+1606319935 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\ushiwakamaru\ushiwakamaru.h
+
+1606320096 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\altera\altera.cpp
+	"altera.h"
+
+1606320077 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\altera\altera.h
+
+1607261254 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\artoriapendragon\artoria.cpp
+	"artoria.h"
+
+1606320198 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\bedivere\bedivere.cpp
+	"bedivere.h"
+
+1606320167 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\bedivere\bedivere.h
+
+1606320243 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\gaiusjuliuscaesar\caesar.cpp
+	"caesar.h"
+
+1606320222 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\gaiusjuliuscaesar\caesar.h
+
+1606320283 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\gawain\gawain.cpp
+	"gawain.h"
+
+1606320261 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\gawain\gawain.h
+
+1606320324 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\mordred\mordred.cpp
+	"mordred.h"
+
+1606320305 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\mordred\mordred.h
+
+1606320369 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\neroclaudius\neroclaudius.cpp
+	"neroClaudius.h"
+
+1606320349 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\neroclaudius\neroclaudius.h
+
+1606320413 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\okitasouji\okitasouji.cpp
+	"okitaSouji.h"
+
+1606320392 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\okitasouji\okitasouji.h
+
+1606320458 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\siegfried\siegfried.cpp
+	"siegfried.h"
+
+1606320440 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\siegfried\siegfried.h
+
+1606320511 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\suzukagozen\suzukagozen.cpp
+	"suzukaGozen.h"
+
+1606320491 c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\suzukagozen\suzukagozen.h
+
+1607259839 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\servant.cpp
+	"head.h"
+	"menu.h"
+
+1607209330 source:c:\users\louis\onedrive\bureau\ece\semestre 3\codeblocks\c++\projet fgo versus\skills.cpp
+	"head.h"
+
+1606315193 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\arash\arash.cpp
+	"arash.h"
+
+1606315163 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\arash\arash.h
+
+1606315239 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\chiron\chiron.cpp
+	"chiron.h"
+
+1606315214 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\chiron\chiron.h
+
+1606315286 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\david\david.cpp
+	"david.h"
+
+1606315262 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\david\david.h
+
+1606315341 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\euryale\euryale.cpp
+	"euryale.h"
+
+1606315315 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\euryale\euryale.h
+
+1607261357 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\gilgamesh\gilgamesh.cpp
+	"Gilgamesh.h"
+
+1607259619 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\gilgamesh\gilgamesh.h
+	"..\..\head.h"
+
+1607211362 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\head.h
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<time.h>
+	<queue>
+	<algorithm>
+
+1606315395 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\ishtar\ishtar.cpp
+	"ishtar.h"
+
+1606315369 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\ishtar\ishtar.h
+
+1606315460 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\odanobunaga\odanobunaga.cpp
+	"odaNobunaga.h"
+
+1606315434 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\odanobunaga\odanobunaga.h
+
+1606315509 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\robinhood\robinhood.cpp
+	"robinHood.h"
+
+1606315484 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\robinhood\robinhood.h
+
+1606315561 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\shirouemiya\emiya.cpp
+	"emiya.h"
+
+1606315536 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\shirouemiya\emiya.h
+
+1606315623 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\tawaratouta\tawaratouta.cpp
+	"tawaraTouta.h"
+
+1606315600 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\archer\tawaratouta\tawaratouta.h
+
+1606315850 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\carmilla\carmilla.cpp
+	"carmilla.h"
+
+1606315829 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\carmilla\carmilla.h
+
+1606315897 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\firsthassan\firsthassan.cpp
+	"firstHassan.h"
+
+1606315875 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\firsthassan\firsthassan.h
+
+1606315988 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\hassanofserenity\hassanofserenity.cpp
+	"hassanOfSerenity.h"
+
+1606315962 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\hassanofserenity\hassanofserenity.h
+
+1606316090 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\hassanofthecursedarm\hassanofthecursedarm.cpp
+	"hassanOfTheCursedArm.h"
+
+1606316067 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\hassanofthecursedarm\hassanofthecursedarm.h
+
+1606316150 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\hassanofthehundredpersonas\hassanofthehundredpersonas.cpp
+	"hassanOfTheHundredPersonas.h"
+
+1606316125 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\hassanofthehundredpersonas\hassanofthehundredpersonas.h
+
+1606316208 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\jacktheripper\jacktheripper.cpp
+	"jackTheRipper.h"
+
+1606316179 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\jacktheripper\jacktheripper.h
+
+1606316263 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\kiritsuguemiya\kiritsugu.cpp
+	"kiritsugu.h"
+
+1606316240 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\kiritsuguemiya\kiritsugu.h
+
+1606316362 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\ryougishiki\ryougishiki.cpp
+	"ryougiShiki.h"
+
+1606316338 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\ryougishiki\ryougishiki.h
+
+1606316418 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\sasakikojirou\sasakikojirou.cpp
+	"sasakiKojirou.h"
+
+1606316394 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\sasakikojirou\sasakikojirou.h
+
+1606316472 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\semiramis\semiramis.cpp
+	"semiramis.h"
+
+1606316445 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\assassin\semiramis\semiramis.h
+
+1606316560 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\atalantealter\atalantealter.cpp
+	"atalanteAlter.h"
+
+1606316538 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\atalantealter\atalantealter.h
+
+1606316605 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\dariusiii\dariusiii.cpp
+	"dariusIII.h"
+
+1606316583 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\dariusiii\dariusiii.h
+
+1606316658 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\frankenstein\frankenstein.cpp
+	"frankenstein.h"
+
+1606316635 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\frankenstein\frankenstein.h
+
+1606316698 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\heracles\heracles.cpp
+	"heracles.h"
+
+1606316677 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\heracles\heracles.h
+
+1606316740 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\lancelot\lancelot.cpp
+	"lancelot.h"
+
+1606316718 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\lancelot\lancelot.h
+
+1606316797 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\lubufengxian\lubufengxian.cpp
+	"luBuFengxian.h"
+
+1606316768 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\lubufengxian\lubufengxian.h
+
+1606316853 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\minamotonoraikou\minamotonoraikou.cpp
+	"minamotoNoRaikou.h"
+
+1606316832 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\minamotonoraikou\minamotonoraikou.h
+
+1606316901 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\paulbunyan\paulbunyan.cpp
+	"paulBunyan.h"
+
+1606316878 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\paulbunyan\paulbunyan.h
+
+1606316950 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\spartacus\spartacus.cpp
+	"spartacus.h"
+
+1606316928 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\spartacus\spartacus.h
+
+1606316992 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\vladiii\vladiii.cpp
+	"vladIII.h"
+
+1606316970 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\berserker\vladiii\vladiii.h
+
+1607209475 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\carte.cpp
+	"head.h"
+
+1606317471 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\gillesderais\gillesderais.cpp
+	"gillesdeRais.h"
+
+1606317450 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\gillesderais\gillesderais.h
+
+1606317525 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\hanschristianandersen\andersen.cpp
+	"andersen.h"
+
+1606317505 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\hanschristianandersen\andersen.h
+
+1606317575 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\medea\medea.cpp
+	"medea.h"
+
+1606317547 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\medea\medea.h
+
+1606317687 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\merlin\merlin.cpp
+	"merlin.h"
+
+1606317665 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\merlin\merlin.h
+
+1606317748 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\nitocris\nitocris.cpp
+	"nitocris.h"
+
+1606317726 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\nitocris\nitocris.h
+
+1606317815 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\scathachskadi\skadi.cpp
+	"skadi.h"
+
+1606317790 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\scathachskadi\skadi.h
+
+1606317872 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\sieg\sieg.cpp
+	"sieg.h"
+
+1606317842 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\sieg\sieg.h
+
+1606317942 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\tamamonomae\tamamonomae.cpp
+	"TamamoNoMae.h"
+
+1606317904 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\tamamonomae\tamamonomae.h
+
+1606318001 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\xuanzangsanzang\sanzang.cpp
+	"sanzang.h"
+
+1606317978 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\xuanzangsanzang\sanzang.h
+
+1606318059 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\zhugeliang\zhugeliang.cpp
+	"zhugeLiang.h"
+
+1606318033 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\caster\zhugeliang\zhugeliang.h
+
+1607209532 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\ce.cpp
+	"head.h"
+
+1607209449 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\classe.cpp
+	"head.h"
+
+1607424903 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\combat.cpp
+	"head.h"
+	"menu.h"
+
+1607259005 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\menu.h
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	"builder.h"
+	"head.h"
+
+1607210778 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\builder.h
+	"Archer/Gilgamesh/gilgamesh.h"
+	"Saber/ArtoriaPendragon/Artoria.h"
+	"Rider/Medusa/medusa.h"
+	"Lancer/CuChulainn/cuChulainn.h"
+
+1607211199 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\artoriapendragon\artoria.h
+	"..\..\head.h"
+
+1607210628 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\medusa\medusa.h
+	"..\..\head.h"
+
+1607210543 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\cuchulainn\cuchulainn.h
+	"..\..\head.h"
+
+1607209407 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\compteureffet.cpp
+	"head.h"
+
+1607210524 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\cuchulainn\cuchulainn.cpp
+	"cuChulainn.h"
+
+1606318246 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\diarmuiduaduibhne\diarmuid.cpp
+	"diarmuid.h"
+
+1606318220 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\diarmuiduaduibhne\diarmuid.h
+
+1606318295 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\enkidu\enkidu.cpp
+	"enkidu.h"
+
+1606318267 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\enkidu\enkidu.h
+
+1606318367 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\ereshkigal\ereshkigal.cpp
+	"ereshkigal.h"
+
+1606318337 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\ereshkigal\ereshkigal.h
+
+1606318439 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\jaguarwarrior\jaguarwarrior.cpp
+	"jaguarWarrior.h"
+
+1606318416 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\jaguarwarrior\jaguarwarrior.h
+
+1606318488 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\karna\karna.cpp
+	"karna.h"
+
+1606318465 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\karna\karna.h
+
+1606318556 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\leonidas\leonidas.cpp
+	"leonidas.h"
+
+1606318531 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\leonidas\leonidas.h
+
+1606318609 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\lishuwen\lishuwen.cpp
+	"liShuwen.h"
+
+1606318579 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\lishuwen\lishuwen.h
+
+1606318659 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\nezha\nezha.cpp
+	"nezha.h"
+
+1606318629 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\nezha\nezha.h
+
+1606318712 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\parvati\parvati.cpp
+	"parvati.h"
+
+1606318690 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\lancer\parvati\parvati.h
+
+1607424827 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<vector>
+	"head.h"
+	"menu.h"
+
+1607259943 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\menu.cpp
+	"menu.h"
+
+1607209358 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\np.cpp
+	"head.h"
+
+1606319526 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\achilles\achilles.cpp
+	"achilles.h"
+
+1606319504 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\achilles\achilles.h
+
+1606319573 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\astolfo\astolfo.cpp
+	"astolfo.h"
+
+1606319548 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\astolfo\astolfo.h
+
+1606319628 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\edwardteach\edwardteach.cpp
+	"edwardTeach.h"
+
+1606319606 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\edwardteach\edwardteach.h
+
+1606319670 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\francisdrake\drake.cpp
+	"drake.h"
+
+1606319650 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\francisdrake\drake.h
+
+1606319721 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\georgios\georgios.cpp
+	"georgios.h"
+
+1606319700 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\georgios\georgios.h
+
+1606319768 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\iskandar\iskandar.cpp
+	"iskandar.h"
+
+1606319747 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\iskandar\iskandar.h
+
+1606319816 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\marieantoinette\marieantoinette.cpp
+	"marieAntoinette.h"
+
+1606319794 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\marieantoinette\marieantoinette.h
+
+1607261431 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\medusa\medusa.cpp
+	"medusa.h"
+
+1606319909 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\ozymandias\ozymandias.cpp
+	"ozymandias.h"
+
+1606319885 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\ozymandias\ozymandias.h
+
+1606319961 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\ushiwakamaru\ushiwakamaru.cpp
+	"ushiwakamaru.h"
+
+1606319935 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\rider\ushiwakamaru\ushiwakamaru.h
+
+1606320096 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\altera\altera.cpp
+	"altera.h"
+
+1606320077 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\altera\altera.h
+
+1607261254 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\artoriapendragon\artoria.cpp
+	"artoria.h"
+
+1606320198 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\bedivere\bedivere.cpp
+	"bedivere.h"
+
+1606320167 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\bedivere\bedivere.h
+
+1606320243 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\gaiusjuliuscaesar\caesar.cpp
+	"caesar.h"
+
+1606320222 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\gaiusjuliuscaesar\caesar.h
+
+1606320283 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\gawain\gawain.cpp
+	"gawain.h"
+
+1606320261 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\gawain\gawain.h
+
+1606320324 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\mordred\mordred.cpp
+	"mordred.h"
+
+1606320305 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\mordred\mordred.h
+
+1606320369 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\neroclaudius\neroclaudius.cpp
+	"neroClaudius.h"
+
+1606320349 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\neroclaudius\neroclaudius.h
+
+1606320413 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\okitasouji\okitasouji.cpp
+	"okitaSouji.h"
+
+1606320392 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\okitasouji\okitasouji.h
+
+1606320458 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\siegfried\siegfried.cpp
+	"siegfried.h"
+
+1606320440 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\siegfried\siegfried.h
+
+1606320511 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\suzukagozen\suzukagozen.cpp
+	"suzukaGozen.h"
+
+1606320491 c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\saber\suzukagozen\suzukagozen.h
+
+1607259839 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\servant.cpp
+	"head.h"
+	"menu.h"
+
+1607209330 source:c:\users\louis\onedrive\bureau\cycle ing\ece\semestre 3\codeblocks\c++\projet fgo versus\skills.cpp
+	"head.h"
+
